@@ -13,7 +13,7 @@
       <pubDate>Fri, 01 Apr 2022 10:58:08 -0400</pubDate>
       
       <guid>https://alghenab.github.io/post/project-1/</guid>
-      <description>In this project, I went throw making a Classification model using BERT on a Dataset containing the comments and ratings from Digikala (an E-commerce company).
+      <description>In this project, I went through making a Classification model using BERT on a Dataset containing the comments and ratings from Digikala (an E-commerce company).
 I used the data from these sources: [source1, source2]
  Link to GitHub Repository</description>
     </item>
@@ -24,7 +24,7 @@ I used the data from these sources: [source1, source2]
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alghenab.github.io/contact/</guid>
-      <description>   Platform      Twitter.com/Alghenab    LinkedIn.com/Alghenab    Medium.com/Alghenab    GitHub.com/Alghenab    Alghenab@gmail.com     </description>
+      <description>   Platforms      Twitter.com/Alghenab    LinkedIn.com/Alghenab    GitHub.com/Alghenab    Alghenab@Gmail.com     </description>
     </item>
     
   </channel>
